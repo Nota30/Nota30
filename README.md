@@ -22,7 +22,6 @@ I am a full-stack developer who specialises in backend related things (I hate cs
 <div align=center>
     <div align=left style="font-size:11px;">
         <ul>
-            <li><a href="https://saya.gg/">Saya</a></li>
             <li><a href="https://kiko.gg/">Kiko</a></li>
             <li><a href="https://discord.com/oauth2/authorize?client_id=748100524246564894&permissions=511040&scope=bot">Kirara</a></li>
         </ul>

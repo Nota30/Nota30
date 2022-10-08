@@ -3,7 +3,7 @@
 I am a full-stack developer who specialises in backend related things (I hate css). I'm very curious about things and I like recreating them. I am also a freelancer.
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Nota30/langs?time_range=one_year&theme=synthwaves)
-![Stats](https://github-readme-stats.vercel.app/api?username=Nota30&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nota30&count_private=true&show_icons=true&theme=radical)
 # ⚡ Technologies I use
 ![Rust](https://img.shields.io/badge/-Rust-e53a25?logo=rust&style=for-the-badge&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00acd7?style=for-the-badge&logoColor=white&logo=go)

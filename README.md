@@ -1,6 +1,6 @@
 ### 🔭 Hey there! I'm Nota.
 
-I am a full-stack developer who specialises in backend related things (I hate css). I'm very curious about things and I like recreating them. I am also a freelancer.
+I am a full-stack developer who specialises in backend related things (I hate css). I'm very curious about things and I like recreating them. I am also a freelancer (You can get in touch with me in discord `Nota#8888`.
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Nota30/langs?time_range=one_year&theme=synthwaves)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Nota30&count_private=true&show_icons=true&theme=radical)

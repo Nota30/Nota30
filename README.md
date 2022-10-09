@@ -10,6 +10,7 @@ I am a full-stack developer who specialises in backend related things (I hate cs
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logoColor=black&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logoColor=white&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-90c53f?style=for-the-badge&logoColor=white&logo=Node.js)
+![Svelte](https://img.shields.io/badge/-Svelte-fe3f00?style=for-the-badge&logoColor=white&logo=svelte)
 ![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logoColor=black&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-41b883?style=for-the-badge&logoColor=white&logo=Vue.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logoColor=white&logo=postgresql)
